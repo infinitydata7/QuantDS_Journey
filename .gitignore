@@ -1,4 +1,6 @@
 .ipynb_checkpoints/ 
+infini_engine/ 
+*.db 
+logs/ 
 __pycache__/ 
 *.pyc 
-logs/ 
